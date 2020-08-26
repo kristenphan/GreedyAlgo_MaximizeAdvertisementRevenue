@@ -33,9 +33,15 @@ Output the maximum value of
 
 __Sample 1.__
 Input:
+<br/>
 1
+<br/>
 23
+<br/>
 39
+<br/>
 Output:
+<br/>
 897
+<br/>
 897 = 23 · 39.
