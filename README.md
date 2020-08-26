@@ -32,6 +32,7 @@ Output the maximum value of
 <br/>
 
 __Sample 1.__
+<br/>
 Input:
 <br/>
 1
